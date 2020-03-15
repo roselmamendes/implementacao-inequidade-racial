@@ -10,6 +10,8 @@ A organização desse repositório se da por meu método de estudo - informaçõ
 
 ### [Teoria Critica Racial](teoria-critica-racial.md)
 
+### [Decolonialidade](decolonialidade.md)
+
 ### [Estudos sobre Raça no Brasil](estudos-raca-brasil.md)
 
 ### [Segurança Urbana](seguranca-urbana.md)
