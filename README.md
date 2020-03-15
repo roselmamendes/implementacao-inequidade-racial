@@ -8,11 +8,11 @@ A organização desse repositório se da por meu método de estudo - informaçõ
 
 ## Temas
 
-### [Teoria Critica Racial](#teoria-critica-racial.md)
+### [Teoria Critica Racial](teoria-critica-racial.md)
 
-### [Estudos sobre Raça no Brasil](#estudos-raca-brasil.md)
+### [Estudos sobre Raça no Brasil](estudos-raca-brasil.md)
 
-### [Segurança Urbana](#seguranca-urbana.md)
+### [Segurança Urbana](seguranca-urbana.md)
 
-### [Raça e Tecnologia](#raca-tecnologia.md)
+### [Raça e Tecnologia](raca-tecnologia.md)
 
