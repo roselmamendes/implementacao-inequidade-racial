@@ -7,3 +7,4 @@
 |Lugar de Negro|Livro|Lélia Gonzalez|Lerei|Português|
 |A categoria politico-cultural de Amefricanidade|Texto|Lélia Gonzalez|Lido|Português|
 |RACISMO E SEXISMO NA CULTURA BRASILEIRA|Texto|Lélia Gonzalez|Lerei|Português|
+|Encarceramento em Massa|Livro|Juliana Borges|Lerei|Português|
