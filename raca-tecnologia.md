@@ -10,3 +10,6 @@
 |[Coronavirus: How can AI help fight the pandemic?](https://www.bbc.com/news/technology-51851292)|Link|Jane Wakefield|Lido|Inglês|
 |[Radical Technoculture for Racial Equity](https://peopleofcolorintech.com/articles/radical-technoculture-for-racial-equity/)|Link|Ari Melenciano|Lerei|Inglês|
 |[Transdados](https://datalabe.org/transdados/)|Link|Eloi Leones|Lerei|Portugues|
+|Comunidades, Algoritmos e Ativismos: olhares afrodiaspóricos|Livro|Tarcizio Silva|Lerei|Português|
+|[Avoiding the Trap of the Singular Data Story](https://botpopuli.net/avoiding-the-trap-of-the-singular-data-story)|Link|Zara Rahman|Lerei|Inglês|
+|[AI is an Ideology, Not a Technology](https://www.wired.com/story/opinion-ai-is-an-ideology-not-a-technology/)|Link|Jaron Lanier, Glen Weyl|Lerei|Inglês|
