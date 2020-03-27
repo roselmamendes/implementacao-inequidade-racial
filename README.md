@@ -18,3 +18,5 @@ A organização desse repositório se da por meu método de estudo - informaçõ
 
 ### [Raça e Tecnologia](raca-tecnologia.md)
 
+### [Boas praticas](boas-praticas.md)
+
